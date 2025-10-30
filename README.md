@@ -1,5 +1,11 @@
 
-![Banner](https://github.com/ZeelHPatel/ZeelHPatel/blob/main/example.jpg)
+<p align="center">
+  <img src="https://github.com/ZeelHPatel/ZeelHPatel/blob/main/example.jpg" alt="Banner design by Zeel Patel" width="100%">
+  <br>
+  <sub>Banner design created by me using Adobe Photoshop 💙</sub>
+</p>
+
+
 # 👋 Hi, I'm Zeel Patel
 
 🎓 **Web Design & Development Student @ NAIT**  
@@ -18,6 +24,11 @@ Check out my live site: [zeelpatelportfolio.ca](https://zeelpatelportfolio.ca)
 - WordPress / PHP  
 - Figma / Tailwind CSS / Bootstrap  
 - Git & GitHub  
+
+🎨 **Design Tools**
+- Adobe Photoshop – image editing, compositing, and layout design  
+- Adobe Illustrator – vector graphics, logos, and print-ready artwork  
+- Figma – UI/UX design and prototyping
 
 ---
 
