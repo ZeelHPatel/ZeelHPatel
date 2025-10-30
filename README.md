@@ -1,3 +1,5 @@
+
+![Banner](https://github.com/ZeelHPatel/ZeelHPatel/blob/main/banner.jpg)
 # 👋 Hi, I'm Zeel Patel
 
 🎓 **Web Design & Development Student @ NAIT**  
