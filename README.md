@@ -1,5 +1,5 @@
 
-![Banner](https://github.com/ZeelHPatel/ZeelHPatel/blob/main/banner.jpg)
+![Banner](https://github.com/ZeelHPatel/ZeelHPatel/blob/main/example.jpg)
 # 👋 Hi, I'm Zeel Patel
 
 🎓 **Web Design & Development Student @ NAIT**  
